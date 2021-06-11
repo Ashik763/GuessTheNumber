@@ -1,0 +1,11 @@
+#headline{
+    font-size:100px;
+    color: yellow;
+
+}
+.list-group-item{
+    margin: auto;
+    border:3px solid dodgerblue;
+    width: 80%;
+    
+}
